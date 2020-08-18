@@ -1,17 +1,5 @@
 # Social Network
 
-### Course: cs400
-### Semester: Fall 2019
-### Project name: Social Network
-## Team Members:
-1. Ritvik Bhawnani,  lec 002, and rbhawnani@wisc.edu
-2. Fardeen Meeran,   lec 001, and meeran@wisc.edu
-3. Ryan Brown,       lec 002, and rbrown38@wisc.edu
-4. Yash Sukhwani,    lec 001, and sukhwani@wisc.edu
-5. Ayuj Prasad,      lec 001, and prasad22@wisc.edu
-
- 
-
 ## Which team members were on same xteam together?
 NONE
 
